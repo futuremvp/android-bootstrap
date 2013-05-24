@@ -1,5 +1,4 @@
 
-
 package com.donnfelker.android.bootstrap.core.core;
 
 import static org.junit.Assert.assertNotNull;
@@ -33,7 +32,7 @@ public class BootstrapServiceTest {
 
     /**
      * Create reader for string
-     *
+     * Make it easy
      * @param value
      * @return input stream reader
      * @throws IOException
